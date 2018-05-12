@@ -1,0 +1,36 @@
+_repo: The-Government-Class-BookCitizens._15319
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Young, Andrew W. (Andrew White)
+    aliases:
+    - Young, A. W. (Andrew White)
+    - Young, Andrew White
+    birthdate: 1802
+    deathdate: 1877
+    gutenberg_agent_id: '5998'
+    url: http://www.gutenberg.org/2009/agents/5998
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2005-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcsh 'United States -- Politics and government -- Handbooks, manuals, etc.'
+title: 'The Government Class Book
+
+  Designed for the Instruction of Youth in the Principles
+
+  of Constitutional Government and the Rights and Duties of
+
+  Citizens.'
+url: http://www.gutenberg.org/ebooks/15319
